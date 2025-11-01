@@ -1,5 +1,21 @@
 # Arrays
 
+## Table of Contents
+
+1. [Definition](#1-definition)
+2. [How It Works](#2-how-it-works)
+   - [Memory Layout](#memory-layout)
+   - [Basic Operations](#basic-operations)
+   - [Traversal](#traversal)
+   - [Language-Specific Features](#language-specific-features)
+3. [Mathematical Explanation](#3-mathematical-explanation)
+4. [Problem Lists and Why Arrays Are Better](#4-problem-lists-and-why-arrays-are-better)
+5. [Practice Problems](#5-practice-problems)
+6. [Third Party Resources](#third-party-resources)
+7. [Key Takeaways](#key-takeaways)
+
+---
+
 ## 1. Definition
 
 An **Array** is a linear data structure that stores elements in contiguous memory locations. It represents a collection of elements of the same data type, organized in a sequential order. Each element in an array can be accessed directly using its index position.
